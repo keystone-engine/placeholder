@@ -1,6 +1,9 @@
 Keystone Engine
 ==============
 
+**UPDATE**: See our official Git repository of Keystone Engine at https://github.com/keystone-engine/keystone
+
+===
 Keystone is a lightweight multi-platform, multi-architecture assembler framework.
 It offers some unparalleled features:
 
